@@ -1,4 +1,5 @@
 {
   "C_Cpp.intelliSenseEngine": "default",
-  "idf.adapterTargetName": "esp32c3"
+  "idf.adapterTargetName": "esp32c3",
+  "idf.pythonInstallPath": "C:\\Users\\chris\\.espressif\\tools\\idf-python\\3.11.2\\python.exe"
 }
